@@ -1,4 +1,6 @@
 ## Fisher
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTheOnlyArtz%2FFisher.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FTheOnlyArtz%2FFisher?ref=badge_shield)
+
 - Fisher is a solution to interact with the Discord API using Pike
 - Fisher is VERY new and mid development
 
@@ -245,3 +247,7 @@ Can be a little bit tricky, this is only the client's (bot) update event.
 ```pike
 void handleUserUpdate(User newUser, User cached, array diffs, ClientUser client);
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTheOnlyArtz%2FFisher.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTheOnlyArtz%2FFisher?ref=badge_large)
